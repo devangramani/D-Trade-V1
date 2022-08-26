@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773042929934",
+    "project_id": "realtrade-62f8a",
+    "storage_bucket": "realtrade-62f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773042929934:android:08edaa15b88ac49e7c975f",
+        "android_client_info": {
+          "package_name": "com.trade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773042929934-cm28290h6727pgjfjjap3bgv2c5nh2fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxtul349ocZ2IedCnuz9EbVHtnpsvdsv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773042929934-cm28290h6727pgjfjjap3bgv2c5nh2fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

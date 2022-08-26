@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+        <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">localhost</domain>
+        <domain includeSubdomains="true">dtrade.fun</domain>
+        <domain includeSubdomains="true">127.0.0.1</domain>
+        <domain includeSubdomains="true">35.187.228.125</domain>
+        <domain includeSubdomains="true">172.20.10.14</domain>
+        <domain includeSubdomains="true">192.168.56.132</domain>
+        </domain-config>
+</network-security-config>
